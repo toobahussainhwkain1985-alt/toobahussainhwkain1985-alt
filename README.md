@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tooba Hussain</h1>
 <h3 align="center">student from Pakistan</h3>
 
-- 🌱 I'm currently learning PHP **PHP**
+- 🌱 I'm currently learning PHP
 
 - 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/portfolio-2.html](http://127.0.0.1:5500/portfolio-2.html)
 
